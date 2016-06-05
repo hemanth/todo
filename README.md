@@ -6,3 +6,4 @@
 - [ ] Work on #1
 - [ ] Clean up [es-next](https://github.com/hemanth/es-next).
 - [ ] [Search-Page](https://github.com/ampproject/docs/issues/102) for AMP.
+- [ ] Update `generator-node` to [bable6](https://github.com/yeoman/generator-node/pull/236)
